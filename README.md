@@ -2,13 +2,15 @@
 
 > A streamlined Applicant Tracking System (ATS) optimized to quantify resume-job fit using Natural Language Processing (NLP).
 
-**🔗 [Live Demo Link](https://smartats-kesstqsdmxozse3tsycloa.streamlit.app/)** *(Click the link above to test the application with your own resume!)*
+**🔗 [Test the Application Yourself](https://smartats-kesstqsdmxozse3tsycloa.streamlit.app/)** *(Click the link to test the application with your own resume!)*
 
 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+
+
 ##Preview of the application
 ![preview](./preview.png)
 
