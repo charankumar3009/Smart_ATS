@@ -3,12 +3,14 @@
 > A streamlined Applicant Tracking System (ATS) optimized to quantify resume-job fit using Natural Language Processing (NLP).
 
 **🔗 [Live Demo Link](https://smartats-kesstqsdmxozse3tsycloa.streamlit.app/)** *(Click the link above to test the application with your own resume!)*
-##Preview of the application
+
 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
+##Preview of the application
+![preview](./preview.png)
 
 ## 📖 Overview
 In the modern recruitment landscape, over 75% of resumes are rejected by automated ATS software before they ever reach a human recruiter. **Smart ATS** is a reverse-engineered solution designed to bridge this gap. 
