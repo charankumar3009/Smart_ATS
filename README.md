@@ -11,7 +11,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 
 
-##Preview of the application
+## Preview of the application
 ![preview](./preview.png)
 
 ## 📖 Overview
